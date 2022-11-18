@@ -27,27 +27,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/62895322458420'
+global.sig = 'Dikaa store15'
+global.syt = 'andikaanya'
+global.sgh = 'gaada'
+global.sgc = 'https://chat.whatsapp.com/DAyCtAfyW0r44fk0RetG1T'
+global.swa = 'wa.me/6285770575380'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '089665988228'
 global.povo = '-'
-global.pgopay = '0895322458420'
+global.pgopay = ''
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281229352035'
-global.nomorown = '62895322458420'
-global.namebot = 'NovanBotz'
-global.nameown = 'Novan4you'
+global.nomorbot = '6289665988228'
+global.nomorown = '6285770575380'
+global.namebot = 'Dikaabot'
+global.nameown = 'Dikaastore'
 
 
 /*============== STAFF ==============*/
@@ -119,11 +119,11 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Novan BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Novan4you* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Novan4you'
-global.umurowner = '22'
-global.asalowner = 'Indonesia, New York'
-global.nomorowner = 'wa.me/62895322458420'
-global.pacarowner = 'Kepo amat sih;v'
+global.nameowner = 'Dikaa'
+global.umurowner = '20'
+global.asalowner = 'Indonesia, Jawa barat'
+global.nomorowner = 'wa.me/6285770575380'
+global.pacarowner = 'haram'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
