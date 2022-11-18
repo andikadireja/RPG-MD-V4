@@ -52,7 +52,7 @@ global.nameown = 'Dikaastore'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895322458420', 'Novan4you', 'true']
+  ['6285770575380', 'Dikaaatore', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -119,11 +119,11 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Novan BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Novan4you* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Novan4you'
-global.umurowner = '22'
-global.asalowner = 'Indonesia, New York'
-global.nomorowner = 'wa.me/62895322458420'
-global.pacarowner = 'Kepo amat sih;v'
+global.nameowner = 'andika'
+global.umurowner = '19'
+global.asalowner = 'Indonesia, Jawa barat'
+global.nomorowner = 'wa.me/6285770575380'
+global.pacarowner = 'haram gak boleh pacaran'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
