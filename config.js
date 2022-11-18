@@ -38,16 +38,16 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 /*============== PAYMENT ==============*/
 global.pdana = '-'
 global.povo = '-'
-global.pgopay = '0895322458420'
+global.pgopay = ''
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281229352035'
-global.nomorown = '62895322458420'
-global.namebot = 'NovanBotz'
-global.nameown = 'Novan4you'
+global.nomorbot = '6289665988228'
+global.nomorown = '6285770575380'
+global.namebot = 'DikaaBot'
+global.nameown = 'Dikaastore'
 
 
 /*============== STAFF ==============*/
